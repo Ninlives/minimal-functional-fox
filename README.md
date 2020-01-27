@@ -1,16 +1,20 @@
+# 🦊 minimal-functional-fox
+
+*Modified by @SpencerWoo for better `Compact` layout and Windows 10 compatibility.*
+
+See article: [用下面这些方法，为自己高度定制一个 Firefox 浏览器](https://sspai.com/post/58605) for more.
+
+## Preview
+
+![](windows-preview.png)
+
+---
+
 # minimal-functional-fox
 
 If you are looking for a minimal, yet functional Firefox userChrome stylesheet...you might like this one!
 
-
-
 **Note:** Firefox update 72.0 basically broke just about everything. I have fixed almost everything and pushed the fixed userChrome file. However if you encounter any bugs feel free to open an issue. Thanks!
-
-
-
-## Preview
-
-![userChrome.css preview 1](https://github.com/turing753/myuserchrome/blob/master/preview.png)
 
 ## Features
 
