@@ -5,18 +5,3 @@
       background: #1d2021 !important;
     }
   }
-  
-
-  /* Hide scrollbar */
-  
-  :root{
-    scrollbar-width: none !important;
-  }
-  }
-  
-  @-moz-document url(about:privatebrowsing) { 
-  
-  :root{
-    scrollbar-width: none !important;
-  }
-  }
