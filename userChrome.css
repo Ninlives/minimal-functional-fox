@@ -164,10 +164,15 @@ input#urlbar-input {
 
 /* Hide some bloat */
 .tab-line,
+.tab-close-button,
 .tabbrowser-tab::before,
 .tabbrowser-tab::after,
 .tabbrowser-tab .tab-icon-image {
 	display: none !important;
+}
+
+.tabbrowser-tab:not([pinned="true"]):hover .tab-close-button {
+  display: -moz-box !important;
 }
 
 /* Regular browser tabs */
