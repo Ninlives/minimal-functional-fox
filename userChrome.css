@@ -175,6 +175,14 @@ input#urlbar-input {
   display: -moz-box !important;
 }
 
+.tabbrowser-tab .tab-close-button {
+  -moz-box-ordinal-group: 0 !important;
+  margin: 1px 6px 1px -4px !important;
+  width: 16px;
+  height: 16px;
+  display: none !important;
+}
+
 /* Regular browser tabs */
 .tabbrowser-tab {
 	background-color: #1e1f29 !important;
