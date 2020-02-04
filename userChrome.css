@@ -163,7 +163,6 @@ input#urlbar-input {
 */
 
 /* Hide some bloat */
-.tab-close-button,
 .tab-line,
 .tabbrowser-tab::before,
 .tabbrowser-tab::after,
